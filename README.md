@@ -1,4 +1,4 @@
-# 🚀 CODTECH Internship – Task 1: SQL JOINs
+# 🚀 CODTECH Internship – Task 2: DATA ANALYSIS WITH COMPLEX QUERIES
 
 This repository contains SQL scripts and outputs for **Task 1** of my SQL internship at **CODTECH IT Solutions**.
 
