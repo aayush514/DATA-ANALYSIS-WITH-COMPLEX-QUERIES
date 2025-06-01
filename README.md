@@ -44,13 +44,13 @@ This repository contains SQL scripts and outputs for **Task 1** of my SQL intern
 ## 🔍 Task Examples
 
 ### ✅ WINDOW FUNCTION
-![INNER JOIN](screenshots/Inner_Join.png)
+![COMMON TABLE EXPRESSION(CTE)](screenshots/CTE.png)
 
 ### ✅ SUBQUERY
-![LEFT JOIN](screenshots/Left_Join.png)
+![SUBQUERY](screenshots/Subquery.png)
 
 ### ✅ COMMON TABLE EXPRESSION(CTE)
-![RIGHT JOIN](screenshots/Right_Join.png)
+![WINDOW FUNCTION](screenshots/Window_Function.png)
 
 ---
 
